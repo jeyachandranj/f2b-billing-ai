@@ -1,0 +1,6 @@
+flask
+Pillow
+sentence_transformers
+faiss-cpu
+flask_cors
+groq
